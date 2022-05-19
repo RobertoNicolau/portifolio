@@ -1,12 +1,12 @@
 import { Header } from "./components/Header";
-import { Presentation } from "./components/Presentation";
+import { Introduction } from "./components/Introduction";
 import { GlobalStyle } from "./styles/global";
 
 export function App() {
   return (
     <>
       <Header />
-      <Presentation />
+      <Introduction />
       <GlobalStyle />
     </>
   );

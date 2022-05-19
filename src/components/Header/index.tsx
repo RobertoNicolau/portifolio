@@ -6,12 +6,12 @@ export function Header() {
     <Container>
       <header>
         <h1>Roberto Nicolau | Web Developer Student 🧑‍💻</h1>
-        <button type="button">
-          <a href="" target="_blank">
+        <a href="https://github.com/RobertoNicolau" target="_blank">
+          <button type="button">
             <FaGithub color="#00BFA6" />
             My Github
-          </a>
-        </button>
+          </button>
+        </a>
       </header>
     </Container>
   );
